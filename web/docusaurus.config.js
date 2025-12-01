@@ -11,12 +11,12 @@ const darkCodeTheme = themes.vsDark;
 const config = {
   title: siteConfig.nom,
   tagline: siteConfig.description,
-  url: "https://info.cegepmontpetit.ca/",
+  url: "https://tge.cegepmontpetit.ca/",
   baseUrl: `/${siteConfig.nomUrl}/`,
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
 
-  organizationName: "departement-info-cem",
+  organizationName: "TGECEM",
   projectName: siteConfig.nomUrl,
   deploymentBranch: "gh-pages",
   trailingSlash: false,
@@ -43,7 +43,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           routeBasePath: "/",
-          editUrl: `https://github.com/departement-info-cem/${siteConfig.nomUrl}/tree/main/web`,
+          editUrl: `https://github.com/TGECEM/${siteConfig.nomUrl}/tree/main/web`,
         },
         theme: {
           customCss: [require.resolve("./src/css/custom.css")],
@@ -91,7 +91,7 @@ const config = {
             items: [
               {
                 label: "GitHub",
-                href: `https://github.com/departement-info-cem/${siteConfig.nomUrl}`,
+                href: `https://github.com/TGECEM/${siteConfig.nomUrl}`,
               },
             ],
           },
@@ -116,7 +116,7 @@ const config = {
       metadata: [
         {
           name: "keywords",
-          content: `${siteConfig.nom}, ${siteConfig.description}, informatique, technique, cégep, cegep, édouard-montpetit, edouard-montpetit, édouard montpetit, edouard montpetit`,
+          content: `${siteConfig.nom}, ${siteConfig.description}, génie électrique, technique, cégep, cegep, édouard-montpetit, edouard-montpetit, édouard montpetit, edouard montpetit`,
         },
       ],
     }),
