@@ -5,16 +5,12 @@ const sidebars = {
   docs: [
     {
       type: "doc",
-      label: "1.1 - Rencontre",
-      id: "cours/rencontre1.1", // Doit matcher le nom du document qui est dans docs/01-cours/. Les chiffres au début (ex : 01-) sont ignorés.
+      label: "Chapitre 1",
+      id: "cours/chapitre1", // Doit matcher le nom du document qui est dans docs/01-cours/. Les chiffres au début (ex : 01-) sont ignorés.
       customProps: { // Attention, il faut recompiler à chaque modification dans sidebar.js pour que les modifications s'appliquent.
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-09"}  // Date du cours pour le groupe 1010 du le Prof 1
-          ],
-          "Prof 2": [
-            {"1020": "2025-06-09"},  // Date du cours pour le groupe 1020 du le Prof 2
-            {"1030": "2025-06-09"} // Date du cours pour le groupe 1030 du le Prof 2
           ]
         },
         tooltip: "visible" // Valeurs possibles visible ou cache, valeur par défaut "visible"
