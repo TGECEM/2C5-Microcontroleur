@@ -6,7 +6,7 @@ const sidebars = {
     {
       type: "doc",
       label: "Chapitre 1",
-      id: "cours/chapitre1", // Doit matcher le nom du document qui est dans docs/01-cours/. Les chiffres au début (ex : 01-) sont ignorés.
+      id: "cours/cours1", // Doit matcher le nom du document qui est dans docs/01-cours/. Les chiffres au début (ex : 01-) sont ignorés.
       customProps: { // Attention, il faut recompiler à chaque modification dans sidebar.js pour que les modifications s'appliquent.
         calendrier: {
           "Antoine": [
@@ -18,8 +18,8 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "1.2 - Rencontre",
-      id: "cours/rencontre1.2",
+      label: "Laboratoire 1",
+      id: "cours/labo1",
       customProps: {
         calendrier: {
           "Antoine": [
@@ -33,7 +33,7 @@ const sidebars = {
     {
       type: "doc",
       label: "Chapitre 2",
-      id: "cours/chapitre2",
+      id: "cours/cours2",
       customProps: {
         calendrier: {
           "Antoine": [
