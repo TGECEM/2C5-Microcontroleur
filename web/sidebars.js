@@ -43,33 +43,6 @@ const sidebars = {
         avancementLabel: "TP1 - Créé",
         avancement: 0.0
       }
-    },
-    {
-      type: "doc",
-      label: "15.1 - Rencontre",
-      id: "cours/rencontre15.1",
-      customProps: {
-        calendrier: {
-          "Antoine": [
-            {"1010": "2025-07-09"}
-          ]
-        }
-      },
-      "className": "remise-tp3"
-    },
-    {
-      type: "doc",
-      label: "15.2 - Rencontre",
-      id: "cours/rencontre15.2",
-      customProps: {
-        calendrier: {
-          "Antoine": [
-            {"1010": "2025-07-10"},
-            {"1020": "2025-07-04"}
-          ]
-        }
-      },
-      "className": "examen"
     }
   ],
   "tp": [
