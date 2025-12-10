@@ -22,7 +22,7 @@ const sidebars = {
       id: "cours/rencontre1.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-09"} // Date du cours pour le groupe 1010 du le Prof 1
           ],
           "Prof 2": [
@@ -35,11 +35,11 @@ const sidebars = {
     },
     {
       type: "doc",
-      label: "2.1 - Rencontre",
-      id: "cours/rencontre2.1",
+      label: "Chapitre 2",
+      id: "cours/chapitre2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-11"}
           ],
           "Prof 2": [
@@ -57,7 +57,7 @@ const sidebars = {
       id: "cours/rencontre2.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-11"}
           ],
           "Prof 2": [
@@ -75,7 +75,7 @@ const sidebars = {
       id: "cours/rencontre3.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-12"}
           ],
           "Prof 2": [
@@ -93,7 +93,7 @@ const sidebars = {
       id: "cours/rencontre3.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-12"}
           ],
           "Prof 2": [
@@ -111,7 +111,7 @@ const sidebars = {
       id: "cours/rencontre4.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-16"}
           ],
           "Prof 2": [
@@ -129,7 +129,7 @@ const sidebars = {
       id: "cours/rencontre4.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-16"}
           ],
           "Prof 2": [
@@ -147,7 +147,7 @@ const sidebars = {
       id: "cours/rencontre5.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-18"}
           ],
           "Prof 2": [
@@ -166,7 +166,7 @@ const sidebars = {
       id: "cours/rencontre5.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-18"}
           ],
           "Prof 2": [
@@ -184,7 +184,7 @@ const sidebars = {
       id: "cours/rencontre6.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-19"}
           ],
           "Prof 2": [
@@ -202,7 +202,7 @@ const sidebars = {
       id: "cours/rencontre6.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-19"}
           ],
           "Prof 2": [
@@ -220,7 +220,7 @@ const sidebars = {
       id: "cours/rencontre7.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-23"}
           ],
           "Prof 2": [
@@ -238,7 +238,7 @@ const sidebars = {
       id: "cours/rencontre7.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-23"}
           ],
           "Prof 2": [
@@ -255,7 +255,7 @@ const sidebars = {
       id: "cours/rencontre8.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-25"}
           ],
           "Prof 2": [
@@ -273,7 +273,7 @@ const sidebars = {
       id: "cours/rencontre8.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-25"}
           ],
           "Prof 2": [
@@ -291,7 +291,7 @@ const sidebars = {
       id: "cours/rencontre9.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-26"}
           ],
           "Prof 2": [
@@ -309,7 +309,7 @@ const sidebars = {
       id: "cours/rencontre9.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-06-26"}
           ],
           "Prof 2": [
@@ -328,7 +328,7 @@ const sidebars = {
       id: "cours/rencontre10.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-01"}
           ],
           "Prof 2": [
@@ -346,7 +346,7 @@ const sidebars = {
       id: "cours/rencontre10.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-01"}
           ],
           "Prof 2": [
@@ -364,7 +364,7 @@ const sidebars = {
       id: "cours/rencontre11.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-02"}
           ],
           "Prof 2": [
@@ -382,7 +382,7 @@ const sidebars = {
       id: "cours/rencontre11.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-02"}
           ],
           "Prof 2": [
@@ -400,7 +400,7 @@ const sidebars = {
       id: "cours/rencontre12.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-03"}
           ],
           "Prof 2": [
@@ -418,7 +418,7 @@ const sidebars = {
       id: "cours/rencontre12.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-03"}
           ],
           "Prof 2": [
@@ -436,7 +436,7 @@ const sidebars = {
       id: "cours/rencontre13.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-07"}
           ],
           "Prof 2": [
@@ -454,7 +454,7 @@ const sidebars = {
       id: "cours/rencontre13.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-07"}
           ],
           "Prof 2": [
@@ -472,7 +472,7 @@ const sidebars = {
       id: "cours/rencontre14.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-10"}
           ],
           "Prof 2": [
@@ -490,7 +490,7 @@ const sidebars = {
       id: "cours/rencontre14.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-09"}
           ],
           "Prof 2": [
@@ -508,7 +508,7 @@ const sidebars = {
       id: "cours/rencontre15.1",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-09"}
           ],
           "Prof 2": [
@@ -525,7 +525,7 @@ const sidebars = {
       id: "cours/rencontre15.2",
       customProps: {
         calendrier: {
-          "Prof 1": [
+          "Antoine": [
             {"1010": "2025-07-10"}
           ],
           "Prof 2": [
