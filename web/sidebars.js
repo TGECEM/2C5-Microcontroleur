@@ -80,8 +80,8 @@ const sidebars = {
   ],
   laboratoire: [
     {
-      type: 'category',
-      label: 'labo1',
+      type: "doc",
+      label: "Laboratoire 1",
       id: "cours/labo1",
       customProps: {
         calendrier: {
