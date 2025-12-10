@@ -22,7 +22,7 @@ Pour vous habituer à utiliser des gestionnaires de révisions, nous utiliserons
 - Connectez-vous au PC du laboratoire avec **votre compte TGE** pour que votre compte GitHub ne soit configuré **que** sur votre compte sur le PC.
 - Configurez votre compte GitHub en cliquant droit dans le navigateur de fichier et en ouvrant **Tortoise Git** --> **Settings**, puis en configurant le compte dans l'onglet **Git**
 
-::hint
+::tip
 Sur les PCs Windows, il faut souvent cliquer sur **Afficher plus d'options** afin de voir les options apparaître.
 ::
 
@@ -32,7 +32,7 @@ Sur les PCs Windows, il faut souvent cliquer sur **Afficher plus d'options** afi
 ## Cloner son répertoire
 Dans votre répertoire de travail **local** (ex: C:\Users\antoine\Documents\Atmel Studio\7.0), cliquer droit et sélectionner **Git Clone**
 
-::hint
+::tip
 Encore une fois, il est possible de devoir cliquer sur **Afficher plus d'options** selon le système d'exploitation
 ::
 

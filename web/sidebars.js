@@ -27,7 +27,7 @@ const sidebars = {
             {"1020": "2025-06-09"} // Date du cours pour le groupe 1020
           ]
         },
-        tooltip: "cache"
+        tooltip: "visible"
       }
     },
     {
