@@ -41,10 +41,6 @@ const sidebars = {
         calendrier: {
           "Antoine": [
             {"1010": "2025-06-11"}
-          ],
-          "Prof 2": [
-            {"1020": "2025-06-09"},
-            {"1030": "2025-06-09"}
           ]
         },
         avancementLabel: "TP1 - Créé",
