@@ -102,13 +102,16 @@ Maintenant, trouvez une façon de changer la valeur de a pour votre âge en ne c
 
 **TCCR1A**
 |Bit|7|6|5|4|3|2|1|0|
+|---|---|---|---|---|---|---|---|---|
 |Fonc|COM1A1|COM1A0|COM1B1|COM1B0|-|-|WGM11|WGM10|
-|Valeur|||||||||
+|Valeur| | | | | | | | |
+
 
 **TCCR1B**
 |Bit|7|6|5|4|3|2|1|0|
+|---|---|---|---|---|---|---|---|---|
 |Fonc|-|-|-|WGM13|WGM12|CS12|CS11|CS10|
-|Valeur|||||||||
+|Valeur| | | | | | | | |
 
 OCR1A = 16MHz/prédiv/f-1 = ?
 
