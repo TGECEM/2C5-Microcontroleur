@@ -110,9 +110,7 @@ Maintenant, trouvez une façon de changer la valeur de a pour votre âge en ne c
 |Fonc|-|-|-|WGM13|WGM12|CS12|CS11|CS10|
 |Valeur|||||||||
 
-$$
-\text{OCR1A} = \frac{16\,\text{MHz}}{\text{prédiv} \cdot f} - 1
-$$
+OCR1A = 16MHz/prédiv/f-1 = ?
 
 9. Modifier la fonction d’interruption, aussi appelée **ISR** pour que la LED L allume pendant 1s, puis s’éteigne pendant 1s.
 10. Une fois la partie 3 complétée, faire un commit et push des modifications.
