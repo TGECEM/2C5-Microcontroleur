@@ -3,7 +3,7 @@ title: Laboratoire 1
 description: Laboratoire 1
 ---
 
-# 🔬 Laboratoire 1
+# 🔬 Laboratoire 1 - Github et I<sup>2</sup>C
 ## 🎯 Objectifs
 - Se familiariser avec Github
 - Se familiariser avec le protocole I<sup>2</sup>C
