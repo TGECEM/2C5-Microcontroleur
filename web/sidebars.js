@@ -63,8 +63,21 @@ const sidebars = {
             {"1020": "2025-06-09"} // Date du labo1 pour le groupe 1020
           ]
         }
+      }
+    },
+    {
+      type: "doc",
+      label: "Laboratoire 2",
+      id: "cours/labo2",
+      customProps: {
+        calendrier: {
+          "Antoine": [
+            {"1010": "2025-06-09"}, // Date du labo1 pour le groupe 1010
+            {"1020": "2025-06-09"} // Date du labo1 pour le groupe 1020
+          ]
+        }
+      }
     }
-  }
   ]
 };
 
